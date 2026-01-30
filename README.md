@@ -1,5 +1,8 @@
 # stablecoin-multihub-project
 
+This project does not avoid USD.
+It simply removes the requirement to route through USD when unnecessary.
+
 ## Background
 - Currently, stablecoins are being issued in major economic zones, such as the Japanese yen, US dollar, and euro.
 - In the future, stablecoins are likely to handle a portion of real-world currency exchange and remittance demand.
